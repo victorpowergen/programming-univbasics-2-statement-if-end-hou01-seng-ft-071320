@@ -1,1 +1,1 @@
-Time.now
+if true
